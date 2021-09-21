@@ -1,0 +1,21 @@
+                                                                                youtube: Python.uz
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Djangoni urnatishdan oldin biz vertiual envorinment urnatib olamiz!
+
+Buning uchun avvalom
+
+1.Papka yaratamiz 
+2.Usha papka ichiga git bashni ochib olamiz
+3.Git bashga yozamiz : python -m venv {papka nomi}/venv
+4.So'ng esa Git bashning uzida venv activate qilamiz
+5.Buning uchun git bashga: -> source venv/Scripts/activate yozamiz va u aktivlashadi.
+6. sung esa: pip install django    deb kiritamiz
+
+_______________________________________Djangoda project ochish___________________________________________________
+
+Djangoda project yaratish uchun :
+
+1. Git bashga: django-admin startproject projectname'prayekt_nomi'
+2. Bu bizga fayl ochib beradi va biz bu faylga kiramiz va u yerda yana bir papka va manage.py
+3.                            
